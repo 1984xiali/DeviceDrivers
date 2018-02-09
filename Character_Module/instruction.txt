@@ -1,2 +1,9 @@
-TODO:
+Test Environment
+=====================================================
+Linux Ubuntu
+3.16.0-77-generic #99~14.04.1-Ubuntu SMP
+
+TODO
+=====================================================
 Add instructions such as how to compile, launch, debug, and where to find log message for Kernel print.
+
